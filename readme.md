@@ -30,7 +30,7 @@ i build/develop/do/tinker stuff using:
 <td></td>
 </tr>
 <tr>
-<td><code>Tools</code>, <code>Misc:</code></td>
+<td><code>Tools</code>, <code>Misc</code></td>
 <td><a href="#"><img title="Arduino" alt="Arduino" height="30" src="https://cdn.simpleicons.org/arduino"/></a></td>
 <td><a href="#"><img title="Git" alt="Git" height="30" src="https://cdn.simpleicons.org/git"/></a></td>
 <td><a href="#"><img title="LibreOffice" alt="LibreOffice" height="30" src="https://cdn.simpleicons.org/libreoffice"/></a></td>
@@ -39,7 +39,7 @@ i build/develop/do/tinker stuff using:
 <td><a href="#"><img title="SQLite" alt="SQLite" height="30" src="https://cdn.simpleicons.org/sqlite"/></a></td>
 </tr>
 <tr>
-<td><code>Editors</code>, <code title="Integrated Development Environments">IDEs:</code></td>
+<td><code>Editors</code>, <code title="Integrated Development Environments">IDEs</code></td>
 <td><a href="#"><img title="Micro" alt="Micro" height="30" src="https://cdn.simpleicons.org/microeditor"/></a></td>
 <td><a href="#"><img title="Nano" alt="Nano" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-original.svg"/></a></td>
 <td><a href="#"><img title="Notepad++" alt="Notepad++" height="30" src="https://cdn.simpleicons.org/notepadplusplus"/></a></td>
