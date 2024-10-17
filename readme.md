@@ -6,7 +6,7 @@ i build/develop/do/tinker stuff using:
 <tr>
 <td><code>Software</code></td>
 <td><a href="#"><img title="AutoCAD" alt="AutoCAD" height="30" src="https://cdn.simpleicons.org/autocad"/></a></td>
-<td><a href="#"><img title="KiCad" alt="KiCad" height="30" src="https://cdn.simpleicons.org/kicad"/></a></td>
+<td><a href="#"><img title="KiCad" alt="KiCad" height="30" src="https://cdn.simpleicons.org/kicad/5072FF"/></a></td>
 <td><a href="#"><img title="LibreOffice" alt="LibreOffice" height="30" src="https://cdn.simpleicons.org/libreoffice"/></a></td>
 <td><a href="#"><img title="LTSpice" alt="LTSpice" height="30" src="https://cdn.simpleicons.org/ltspice"/></a></td>
 <td><a href="#"><img title="Proteus" alt="Proteus" height="30" src="https://cdn.simpleicons.org/proteus"/></a></td>
@@ -25,7 +25,7 @@ i build/develop/do/tinker stuff using:
 <td><a href="#"><img title="CSS3" alt="CSS3" height="30" src="https://cdn.simpleicons.org/css3"/></a></td>
 <td><a href="#"><img title="HTML5" alt="HTML5" height="30" src="https://cdn.simpleicons.org/html5"/></a></td>
 <td><a href="#"><img title="LaTeX" alt="LaTeX" height="30" src="https://cdn.simpleicons.org/latex"/></a></td>
-<td><a href="#"><img title="Markdown" alt="Markdown" height="30" src="https://cdn.simpleicons.org/markdown/555"/></a></td>
+<td><a href="#"><img title="Markdown" alt="Markdown" height="30" src="https://cdn.simpleicons.org/markdown/999999"/></a></td>
 <td><a href="#"><img title="Stylus" alt="Stylus" height="30" src="https://cdn.simpleicons.org/stylus/0E8775"/></a></td>
 <td></td>
 </tr>
@@ -34,16 +34,16 @@ i build/develop/do/tinker stuff using:
 <td><a href="#"><img title="Arduino" alt="Arduino" height="30" src="https://cdn.simpleicons.org/arduino"/></a></td>
 <td><a href="#"><img title="Git" alt="Git" height="30" src="https://cdn.simpleicons.org/git"/></a></td>
 <td><a href="#"><img title="LibreOffice" alt="LibreOffice" height="30" src="https://cdn.simpleicons.org/libreoffice"/></a></td>
-<td><a href="#"><img title="Pandas" alt="Pandas" height="30" src="https://cdn.simpleicons.org/pandas"/></a></td>
+<td><a href="#"><img title="Pandas" alt="Pandas" height="30" src="https://cdn.simpleicons.org/pandas/370AED"/></a></td>
 <td><a href="#"><img title="Selenium" alt="Selenium" height="30" src="https://cdn.simpleicons.org/selenium"/></a></td>
-<td><a href="#"><img title="SQLite" alt="SQLite" height="30" src="https://cdn.simpleicons.org/sqlite"/></a></td>
+<td><a href="#"><img title="SQLite" alt="SQLite" height="30" src="https://cdn.simpleicons.org/sqlite/005883"/></a></td>
 </tr>
 <tr>
 <td><code>Editors</code>, <code title="Integrated Development Environments">IDEs:</code></td>
 <td><a href="#"><img title="Micro" alt="Micro" height="30" src="https://cdn.simpleicons.org/microeditor"/></a></td>
 <td><a href="#"><img title="Nano" alt="Nano" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-original.svg"/></a></td>
 <td><a href="#"><img title="Notepad++" alt="Notepad++" height="30" src="https://cdn.simpleicons.org/notepadplusplus"/></a></td>
-<td><a href="#"><img title="PyCharm" alt="PyCharm" height="30" src="https://cdn.simpleicons.org/pycharm/555"/></a></td>
+<td><a href="#"><img title="PyCharm" alt="PyCharm" height="30" src="https://cdn.simpleicons.org/pycharm/999999"/></a></td>
 <td><a href="#"><img title="VSCode" alt="VSCode" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/></a></td>
 <td></td>
 </tr>
