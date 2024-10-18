@@ -25,7 +25,7 @@ i build/develop/do/tinker stuff using:
 <td><a href="#"><img title="CSS3" alt="CSS3" height="30" src="https://cdn.simpleicons.org/css3"/></a></td>
 <td><a href="#"><img title="HTML5" alt="HTML5" height="30" src="https://cdn.simpleicons.org/html5"/></a></td>
 <td><a href="#"><img title="LaTeX" alt="LaTeX" height="30" src="https://cdn.simpleicons.org/latex"/></a></td>
-<td><a href="#"><img title="Markdown" alt="Markdown" height="30" src="https://cdn.simpleicons.org/markdown/999999"/></a></td>
+<td><a href="#"><img title="Markdown" alt="Markdown" height="30" src="https://cdn.simpleicons.org/markdown/999"/></a></td>
 <td><a href="#"><img title="Stylus" alt="Stylus" height="30" src="https://cdn.simpleicons.org/stylus/0E8775"/></a></td>
 <td></td>
 </tr>
@@ -43,19 +43,28 @@ i build/develop/do/tinker stuff using:
 <td><a href="#"><img title="Micro" alt="Micro" height="30" src="https://cdn.simpleicons.org/microeditor"/></a></td>
 <td><a href="#"><img title="Nano" alt="Nano" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-original.svg"/></a></td>
 <td><a href="#"><img title="Notepad++" alt="Notepad++" height="30" src="https://cdn.simpleicons.org/notepadplusplus"/></a></td>
-<td><a href="#"><img title="PyCharm" alt="PyCharm" height="30" src="https://cdn.simpleicons.org/pycharm/999999"/></a></td>
+<td><a href="#"><img title="PyCharm" alt="PyCharm" height="30" src="https://cdn.simpleicons.org/pycharm/999"/></a></td>
 <td><a href="#"><img title="VSCode" alt="VSCode" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/></a></td>
 <td></td>
 </tr>
 </table>
 
-## some projects i work on
+## some projects i work on & stats
 
-<a href="https://github.com/Egezenn/OpenDotaGuides"><img title="OpenDotaGuides" alt="OpenDotaGuides" height="30" src="https://img.shields.io/badge/opendotaguides-692219?style=for-the-badge&logo=github&logoColor=white"/></a></td>  
 <a href="mailto:egezenn@tutanota.com?subject=[yke9tK0F2CJtDxsC]%20what%20is%20it&body=what's%20the%20thing?"><img title="you can ask me about it ;)" alt="yet to be named & published thing" height="30" src="https://img.shields.io/badge/yet%20to%20be%20named%20&%20published%20thing-AA0000?style=for-the-badge"/></a></td>  
-<a href="https://github.com/Egezenn/Miscellaneous-scripts-and-such"><img title="Miscellaneous-scripts-and-such" alt="Miscellaneous-scripts-and-such" height="30" src="https://img.shields.io/badge/miscellaneous--scripts--and--such-0000AA?style=for-the-badge&logo=github&logoColor=white"/></a></td>
+
+<table>
+<tr>
+<td><a href="https://github.com/Egezenn/OpenDotaGuides"><img alt="odg-stat" src="https://github-readme-stats.vercel.app/api/pin/?username=Egezenn&repo=OpenDotaGuides&show_icons=true&hide_border=true&theme=transparent&title_color=9FF&text_color=5CC&icon_color=A5A&disable_animations=true&cache_seconds=86400"></td>
+<td><a href="https://github.com/Egezenn/Miscellaneous-scripts-and-such"><img alt="mss-stat" src="https://github-readme-stats.vercel.app/api/pin/?username=Egezenn&repo=Miscellaneous-scripts-and-such&show_icons=true&hide_border=true&theme=transparent&title_color=9FF&text_color=5CC&icon_color=A5A&disable_animations=true&cache_seconds=86400"></td>
+</tr>
+<tr>
+<td><a href="#"><img alt="stat" src="https://github-readme-stats.vercel.app/api?username=Egezenn&show_icons=true&hide_border=true&theme=transparent&title_color=9FF&text_color=5CC&icon_color=A5A&disable_animations=true&cache_seconds=86400&hide_rank=true&number_format=long&custom_title=Egezenn&hide_title=true"></a></td>
+<td><a href="#"><img alt="lang-stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egezenn&show_icons=true&hide_border=true&theme=transparent&title_color=9FF&text_color=5CC&icon_color=A5A&disable_animations=true&cache_seconds=86400&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact&hide_title=true"></a></td>
+</tr>
+</table>
 
 ## contact me at
 
-<a href="mailto:egezenn@tutanota.com"><img title="Tutanota" alt="Tutanota" height="30" src="https://img.shields.io/badge/tutanota-840010?style=for-the-badge&logo=tutanota&logoColor=white"/></a></td>
-<a href="https://github.com/Egezenn"><img title="GitHub" alt="GitHub" height="30" src="https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a></td>
+<a href="mailto:egezenn@tutanota.com"><img title="Tutanota" alt="Tutanota" height="30" src="https://img.shields.io/badge/tutanota-840010?style=for-the-badge&logo=tutanota&logoColor=white"/></a>
+<a href="https://github.com/Egezenn"><img title="GitHub" alt="GitHub" height="30" src="https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
