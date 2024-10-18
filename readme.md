@@ -81,14 +81,14 @@
 
 <tr>
 <td>
-<a href="https://github.com/Egezenn/OpenDotaGuides"><img alt="odg-stat" src="https://github-readme-stats.vercel.app/api/pin/?username=Egezenn&repo=OpenDotaGuides&show_icons=true&hide_border=true&theme=transparent&title_color=9FF&text_color=5CC&icon_color=A5A&disable_animations=true&cache_seconds=86400">
-<a href="https://github.com/Egezenn/Miscellaneous-scripts-and-such"><img alt="mss-stat" src="https://github-readme-stats.vercel.app/api/pin/?username=Egezenn&repo=Miscellaneous-scripts-and-such&show_icons=true&hide_border=true&theme=transparent&title_color=9FF&text_color=5CC&icon_color=A5A&disable_animations=true&cache_seconds=86400">
+<a href="https://github.com/Egezenn/OpenDotaGuides"><img alt="odg-stat" src="https://github-readme-stats.vercel.app/api/pin/?username=Egezenn&repo=OpenDotaGuides&show_icons=true&hide_border=true&theme=transparent&title_color=9FF&text_color=5CC&icon_color=A5A&disable_animations=true&cache_seconds=86400"></a>
+<a href="https://github.com/Egezenn/Miscellaneous-scripts-and-such"><img alt="mss-stat" src="https://github-readme-stats.vercel.app/api/pin/?username=Egezenn&repo=Miscellaneous-scripts-and-such&show_icons=true&hide_border=true&theme=transparent&title_color=9FF&text_color=5CC&icon_color=A5A&disable_animations=true&cache_seconds=86400"></a>
 </td>
 </tr>
 
 </table>
 
-<a href="mailto:egezenn@tutanota.com?subject=[yke9tK0F2CJtDxsC]%20what%20is%20it&body=what's%20the%20thing?"><img title="you can ask me about it ;)" alt="yet to be named & published thing" height="30" src="https://img.shields.io/badge/yet%20to%20be%20named%20&%20published%20thing-AA0000?style=for-the-badge"/></a></td>  
+<a href="mailto:egezenn@tutanota.com?subject=[yke9tK0F2CJtDxsC]%20what%20is%20it&body=what's%20the%20thing?"><img title="you can ask me about it ;)" alt="yet to be named & published thing" height="30" src="https://img.shields.io/badge/yet%20to%20be%20named%20&%20published%20thing-AA0000?style=for-the-badge"/></a>
 
 </details>
 
