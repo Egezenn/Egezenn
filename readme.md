@@ -2,7 +2,7 @@
 
 <h1>it's-a me, Ege!</h1>
 
-<details open>
+<details>
 <summary>
 <h2>i build/develop/do/tinker stuff using:</h2>
 </summary>
@@ -72,7 +72,7 @@
 
 <details open>
 <summary>
-<h2>stats & some of the projects i work on</h2>
+<h2>stats and some of my work!</h2>
 </summary>
 
 <table>
@@ -82,16 +82,32 @@
 <a href="#"><img alt="lang-stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egezenn&show_icons=true&hide_border=true&theme=transparent&title_color=A5A&text_color=5CC&icon_color=A5A&disable_animations=true&cache_seconds=86400&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact&hide_title=true"></a>
 </td>
 </tr>
+</table>
 
+<table>
 <tr>
 <td>
+<a href="https://github.com/Egezenn/OpenDotaGuides"><img alt="opendotaguides-stat" src="https://github-readme-stats.vercel.app/api/pin/?username=Egezenn&repo=OpenDotaGuides&show_icons=true&hide_border=true&theme=transparent&title_color=A5A&text_color=5CC&icon_color=A5A&disable_animations=true&cache_seconds=86400"></a>
 <a href="https://github.com/Egezenn/YTMASC"><img alt="ytmasc-stat" src="https://github-readme-stats.vercel.app/api/pin/?username=Egezenn&repo=YTMASC&show_icons=true&hide_border=true&theme=transparent&title_color=A5A&text_color=5CC&icon_color=A5A&disable_animations=true&cache_seconds=86400"></a>
-<a href="https://github.com/Egezenn/OpenDotaGuides"><img alt="odg-stat" src="https://github-readme-stats.vercel.app/api/pin/?username=Egezenn&repo=OpenDotaGuides&show_icons=true&hide_border=true&theme=transparent&title_color=A5A&text_color=5CC&icon_color=A5A&disable_animations=true&cache_seconds=86400"></a>
-<a href="https://github.com/Egezenn/Miscellaneous-scripts-and-such"><img alt="mss-stat" src="https://github-readme-stats.vercel.app/api/pin/?username=Egezenn&repo=Miscellaneous-scripts-and-such&show_icons=true&hide_border=true&theme=transparent&title_color=A5A&text_color=5CC&icon_color=A5A&disable_animations=true&cache_seconds=86400"></a>
+<a href="https://github.com/Egezenn/Miscellaneous-scripts-and-such"><img alt="miscellaneous-scripts-and-such-stat" src="https://github-readme-stats.vercel.app/api/pin/?username=Egezenn&repo=Miscellaneous-scripts-and-such&show_icons=true&hide_border=true&theme=transparent&title_color=A5A&text_color=5CC&icon_color=A5A&disable_animations=true&cache_seconds=86400"></a>
 </td>
 </tr>
 </table>
+</details>
 
+<details>
+<summary>
+<h2>some projects i contribute to!</h2>
+</summary>
+
+<table>
+<tr>
+<td>
+<a href="https://github.com/Egezenn/dota2-minify"><img alt="dota2-minify-stat" src="https://github-readme-stats.vercel.app/api/pin/?username=Egezenn&repo=dota2-minify&show_icons=true&hide_border=true&theme=transparent&title_color=A5A&text_color=5CC&icon_color=A5A&disable_animations=true&cache_seconds=86400"></a>
+<a href="https://github.com/SDClowen/RSBot"><img alt="rsbot-stat" src="https://github-readme-stats.vercel.app/api/pin/?username=SDClowen&repo=RSBot&show_icons=true&hide_border=true&theme=transparent&title_color=A5A&text_color=5CC&icon_color=A5A&disable_animations=true&cache_seconds=86400"></a>
+</td>
+</tr>
+</table>
 </details>
 
 <h2>contact me at</h2>
@@ -131,7 +147,6 @@
 </table>
 
 & many more on <a href="https://github.com/Egezenn?tab=stars">here</a>
-
 </details>
 
 </div>
