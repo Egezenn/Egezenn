@@ -22,7 +22,6 @@
 <a href="https://github.com/Egezenn/OpenDotaGuides"><img alt="opendotaguides-stat" src="https://github-readme-stats.vercel.app/api/pin/?username=Egezenn&repo=OpenDotaGuides&show_icons=true&hide_border=true&theme=transparent&title_color=A5A&text_color=5CC&icon_color=A5A&disable_animations=true"></a>
 <a href="https://github.com/Egezenn/YTMASC"><img alt="ytmasc-stat" src="https://github-readme-stats.vercel.app/api/pin/?username=Egezenn&repo=YTMASC&show_icons=true&hide_border=true&theme=transparent&title_color=A5A&text_color=5CC&icon_color=A5A&disable_animations=true"></a>
 <a href="https://github.com/Egezenn/Miscellaneous-scripts-and-such"><img alt="miscellaneous-scripts-and-such-stat" src="https://github-readme-stats.vercel.app/api/pin/?username=Egezenn&repo=Miscellaneous-scripts-and-such&show_icons=true&hide_border=true&theme=transparent&title_color=A5A&text_color=5CC&icon_color=A5A&disable_animations=true"></a>
-<a href="https://github.com/Egezenn/AutoHotkey-Layout-Visualizer"><img alt="autohotkey-layout-visualizer-stat" src="https://github-readme-stats.vercel.app/api/pin/?username=Egezenn&repo=AutoHotkey-Layout-Visualizer&show_icons=true&hide_border=true&theme=transparent&title_color=A5A&text_color=5CC&icon_color=A5A&disable_animations=true"></a>
 </td>
 </tr>
 </table>
