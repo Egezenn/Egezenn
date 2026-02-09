@@ -6,7 +6,7 @@
 
 <img src="assets/overview.svg"><img src="assets/languages.svg">
 
-<a href="https://github.com/Egezenn/dota2-minify"><img src="assets/project_dota2-minify.svg"></a>
+<a href="https://egezenn.github.io/dota2-minify"><img src="assets/project_dota2-minify.svg"></a>
 <a href="https://github.com/Egezenn/OpenDotaGuides"><img src="assets/project_OpenDotaGuides.svg"></a>
 <a href="https://github.com/Egezenn/YTMASC"><img src="assets/project_YTMASC.svg"></a>
 <a href="https://github.com/Egezenn/Miscellaneous-scripts-and-such"><img src="assets/project_Miscellaneous-scripts-and-such.svg"></a>
@@ -18,3 +18,4 @@
 <a href="https://bsky.app/profile/egezenn.bsky.social"><img title="Bluesky" alt="Bluesky" height="32" src="assets/badge_bluesky.svg"/></a>
 
 </div>
+
