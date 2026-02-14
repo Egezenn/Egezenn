@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="180" viewBox="0 0 300 180">
 <rect width="300" height="180" fill="#1a1b27" rx="5" ry="5"/>
-<rect x="10" y="10" width="149.5699001539756" height="10" fill="#3572A5"/>
-<rect x="159.5699001539756" y="10" width="49.63847484800863" height="10" fill="#6594b9"/>
-<rect x="209.20837500198422" y="10" width="24.883407146372047" height="10" fill="#f1e05a"/>
-<rect x="234.09178214835626" y="10" width="24.85062780767338" height="10" fill="#663399"/>
-<rect x="258.9424099560296" y="10" width="12.645046589520135" height="10" fill="#e34c26"/>
-<rect x="271.58745654554974" y="10" width="10.411606901915965" height="10" fill="#ff6347"/>
-<rect x="281.9990634474657" y="10" width="5.704716097591948" height="10" fill="#012456"/>
+<rect x="10" y="10" width="149.84623182838791" height="10" fill="#3572A5"/>
+<rect x="159.84623182838791" y="10" width="49.53330983712375" height="10" fill="#6594b9"/>
+<rect x="209.37954166551168" y="10" width="24.830688689743113" height="10" fill="#f1e05a"/>
+<rect x="234.2102303552548" y="10" width="24.797978797970877" height="10" fill="#663399"/>
+<rect x="259.00820915322566" y="10" width="12.618256554848468" height="10" fill="#e34c26"/>
+<rect x="271.62646570807414" y="10" width="10.389548674774177" height="10" fill="#ff6347"/>
+<rect x="282.0160143828483" y="10" width="5.692629978259406" height="10" fill="#012456"/>
 <circle cx="15" cy="36" r="5" fill="#3572A5"/>
-<text x="25" y="40" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">Python (53.4%)</text>
+<text x="25" y="40" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">Python (53.5%)</text>
 <circle cx="15" cy="56" r="5" fill="#6594b9"/>
 <text x="25" y="60" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">AutoHotkey (17.7%)</text>
 <circle cx="15" cy="76" r="5" fill="#f1e05a"/>
