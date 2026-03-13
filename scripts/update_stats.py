@@ -192,23 +192,39 @@ def create_overview_badge(stats, filename):
     create_list_svg(items, filename, col_widths=(104, 56))
 
 
-def create_project_badge(username, repo_name, filename, col_widths=(90, 108)):
+def create_project_badge(username, repo_name, filename, col_widths=(90, 108), allowed_fields=None):
     details = get_repo_details(username, repo_name)
     if not details:
         return None
 
     display_name = repo_name
-    if len(display_name) > 14:
-        display_name = display_name[:17] + "..."
+    if len(display_name) > 16:
+        display_name = display_name[:14] + "..."
 
-    items = [
-        ("Repo", display_name, "#555"),
-        ("Stars", details.get("stargazers_count", 0), "#007ec6"),
-        ("Forks", details.get("forks_count", 0), "#6f42c1"),
-        ("Language", details.get("language", "Unknown") or "Unknown", "#dfb317"),
-        ("Downloads", get_release_downloads(username, repo_name), "#2ea44f"),
-        ("License", details.get("license", {}).get("spdx_id", "None") if details.get("license") else "None", "#fe7d37"),
-    ]
+    items = [("Repo", display_name, "#555")]
+
+    if allowed_fields is None:
+        allowed_fields = ("STARS", "FORKS", "LANGUAGE", "DOWNLOADS", "LICENSE")
+
+    allowed_fields = [f.upper() for f in allowed_fields]
+
+    if "STARS" in allowed_fields:
+        items.append(("Stars", details.get("stargazers_count", 0), "#007ec6"))
+    if "FORKS" in allowed_fields:
+        items.append(("Forks", details.get("forks_count", 0), "#6f42c1"))
+    if "LANGUAGE" in allowed_fields:
+        items.append(("Language", details.get("language", "Unknown") or "Unknown", "#dfb317"))
+    if "DOWNLOADS" in allowed_fields:
+        items.append(("Downloads", get_release_downloads(username, repo_name), "#2ea44f"))
+    if "LICENSE" in allowed_fields:
+        items.append(
+            (
+                "License",
+                details.get("license", {}).get("spdx_id", "None") if details.get("license") else "None",
+                "#fe7d37",
+            )
+        )
+
     create_list_svg(items, filename, col_widths=col_widths)
 
 
@@ -307,15 +323,26 @@ def main():
     create_language_badge(top_lang, top_json, "languages")
 
     projects = [
-        ("dota2-minify", "dota2-minify", (90, 108)),
-        ("OpenDotaGuides", "OpenDotaGuides", (90, 120)),
-        ("YTMASC", "YTMASC", (90, 108)),
-        ("Miscellaneous-scripts-and-such", "Miscellaneous-scripts-and-such", (90, 150)),
+        ("dota2-minify", "dota2-minify", (90, 108), ("STARS", "LANGUAGE", "DOWNLOADS", "LICENSE")),
+        ("OpenDotaGuides", "OpenDotaGuides", (90, 120), ("STARS", "LANGUAGE", "DOWNLOADS", "LICENSE")),
+        ("YTMASC", "YTMASC", (90, 108), ("STARS", "LANGUAGE", "DOWNLOADS", "LICENSE")),
+        (
+            "Miscellaneous-scripts-and-such",
+            "Miscellaneous-scripts-and-such",
+            (90, 150),
+            ("STARS", "LICENSE"),
+        ),
+        ("kk-gtfs", "kk-gtfs", (90, 108), ("STARS", "LANGUAGE", "LICENSE")),
     ]
 
-    for repo_name, safe_name, col_widths in projects:
+    for project in projects:
+        repo_name = project[0]
+        safe_name = project[1]
+        col_widths = project[2]
+        allowed_fields = project[3] if len(project) > 3 else None
+
         filename_base = f"project_{safe_name}"
-        create_project_badge(username, repo_name, filename_base, col_widths)
+        create_project_badge(username, repo_name, filename_base, col_widths, allowed_fields)
 
     print("All badges generated successfully.")
 

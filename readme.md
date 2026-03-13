@@ -10,6 +10,7 @@
 <a href="https://github.com/Egezenn/OpenDotaGuides"><img src="assets/project_OpenDotaGuides.svg"></a>
 <a href="https://github.com/Egezenn/YTMASC"><img src="assets/project_YTMASC.svg"></a>
 <a href="https://github.com/Egezenn/Miscellaneous-scripts-and-such"><img src="assets/project_Miscellaneous-scripts-and-such.svg"></a>
+<a href="https://github.com/Egezenn/kk-gtfs"><img src="assets/project_kk-gtfs.svg"></a>
 
 <h2>contact me at</h2>
 
@@ -18,4 +19,3 @@
 <a href="https://bsky.app/profile/egezenn.bsky.social"><img title="Bluesky" alt="Bluesky" height="32" src="assets/badge_bluesky.svg"/></a>
 
 </div>
-
