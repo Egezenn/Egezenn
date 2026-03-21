@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="180" viewBox="0 0 300 180">
 <rect width="300" height="180" fill="#1a1b27" rx="5" ry="5"/>
-<rect x="10" y="10" width="139.1370574757156" height="10" fill="#3572A5"/>
-<rect x="149.1370574757156" y="10" width="47.4419595314164" height="10" fill="#f1e05a"/>
-<rect x="196.579017007132" y="10" width="40.366282634653246" height="10" fill="#6594b9"/>
-<rect x="236.94529964178525" y="10" width="24.783618936973568" height="10" fill="#663399"/>
-<rect x="261.7289185787588" y="10" width="13.508890825184757" height="10" fill="#e34c26"/>
-<rect x="275.2378094039436" y="10" width="8.466776390099074" height="10" fill="#ff6347"/>
-<rect x="283.70458579404266" y="10" width="4.639106722173815" height="10" fill="#012456"/>
+<rect x="10" y="10" width="138.98119867512312" height="10" fill="#3572A5"/>
+<rect x="148.98119867512312" y="10" width="47.73134977878424" height="10" fill="#f1e05a"/>
+<rect x="196.71254845390737" y="10" width="40.32106505919234" height="10" fill="#6594b9"/>
+<rect x="237.0336135130997" y="10" width="24.726973816757596" height="10" fill="#663399"/>
+<rect x="261.7605873298573" y="10" width="13.493758411437137" height="10" fill="#e34c26"/>
+<rect x="275.2543457412944" y="10" width="8.457292061215115" height="10" fill="#ff6347"/>
+<rect x="283.71163780250953" y="10" width="4.633910079218612" height="10" fill="#012456"/>
 <circle cx="15" cy="36" r="5" fill="#3572A5"/>
-<text x="25" y="40" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">Python (49.7%)</text>
+<text x="25" y="40" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">Python (49.6%)</text>
 <circle cx="15" cy="56" r="5" fill="#f1e05a"/>
-<text x="25" y="60" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">JavaScript (16.9%)</text>
+<text x="25" y="60" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">JavaScript (17.0%)</text>
 <circle cx="15" cy="76" r="5" fill="#6594b9"/>
 <text x="25" y="80" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">AutoHotkey (14.4%)</text>
 <circle cx="15" cy="96" r="5" fill="#663399"/>
-<text x="25" y="100" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">CSS (8.9%)</text>
+<text x="25" y="100" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">CSS (8.8%)</text>
 <circle cx="15" cy="116" r="5" fill="#e34c26"/>
 <text x="25" y="120" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">HTML (4.8%)</text>
 <circle cx="15" cy="136" r="5" fill="#ff6347"/>
