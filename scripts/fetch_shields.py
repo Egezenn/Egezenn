@@ -1,7 +1,10 @@
 import urllib.request
 
 badges = [
-    ("badge_tuta.svg", "https://img.shields.io/badge/tuta-840010?style=for-the-badge&logo=tuta&logoColor=white"),
+    (
+        "badge_tuta.svg",
+        "https://img.shields.io/badge/tuta-egezenn%40tutanota.com-840010?style=for-the-badge&logo=tuta&logoColor=white",
+    ),
     (
         "badge_github.svg",
         "https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=github&logoColor=white",

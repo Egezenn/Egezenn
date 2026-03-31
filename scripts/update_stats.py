@@ -97,14 +97,14 @@ def get_top_language(username):
     return lang_stats, lang_colors
 
 
-def get_repo_details(username, repo_name):
-    data, _ = fetch_github_api(f"https://api.github.com/repos/{username}/{repo_name}")
+def get_repo_details(full_name):
+    data, _ = fetch_github_api(f"https://api.github.com/repos/{full_name}")
     return data or {}
 
 
-def get_release_downloads(username, repo_name):
+def get_release_downloads(full_name):
     releases = []
-    url = f"https://api.github.com/repos/{username}/{repo_name}/releases?per_page=100"
+    url = f"https://api.github.com/repos/{full_name}/releases?per_page=100"
 
     while url:
         data, link_header = fetch_github_api(url)
@@ -184,19 +184,21 @@ def create_overview_badge(stats, filename):
     items = [
         ("Total Commits", stats.get("total_commits", 0), "#6f42c1"),
         ("Total Stars", stats.get("total_stars", 0), "#007ec6"),
+        ("Total Downloads", stats.get("total_downloads", 0), "#2ea44f"),
         ("Total PRs", stats.get("total_prs", 0), "#dfb317"),
         ("Total Issues", stats.get("total_issues", 0), "#e05d44"),
         ("Public Repos", stats.get("public_repos", 0), "#fe7d37"),
         ("Followers", stats.get("followers", 0), "#97ca00"),
     ]
-    create_list_svg(items, filename, col_widths=(104, 56))
+    create_list_svg(items, filename, col_widths=(130, 60))
 
 
-def create_project_badge(username, repo_name, filename, col_widths=(90, 108), allowed_fields=None):
-    details = get_repo_details(username, repo_name)
+def create_project_badge(full_name, filename, col_widths=(90, 108), allowed_fields=None):
+    details = get_repo_details(full_name)
     if not details:
         return None
 
+    repo_name = full_name.split("/")[-1]
     display_name = repo_name
     if len(display_name) > 16:
         display_name = display_name[:14] + "..."
@@ -215,7 +217,7 @@ def create_project_badge(username, repo_name, filename, col_widths=(90, 108), al
     if "LANGUAGE" in allowed_fields:
         items.append(("Language", details.get("language", "Unknown") or "Unknown", "#dfb317"))
     if "DOWNLOADS" in allowed_fields:
-        items.append(("Downloads", get_release_downloads(username, repo_name), "#2ea44f"))
+        items.append(("Downloads", get_release_downloads(full_name), "#2ea44f"))
     if "LICENSE" in allowed_fields:
         items.append(
             (
@@ -308,6 +310,23 @@ def main():
     total_issues = get_issue_count(username, is_pr=False)
     top_lang, top_json = get_top_language(username)
 
+    projects = [
+        ("Egezenn/dota2-minify", "dota2-minify", (90, 108), ("STARS", "LANGUAGE", "DOWNLOADS", "LICENSE")),
+        ("Silkroad-Developer-Community/RSBot", "RSBot", (90, 108), ("STARS", "LANGUAGE", "DOWNLOADS", "LICENSE")),
+        ("Egezenn/OpenDotaGuides", "OpenDotaGuides", (90, 120), ("STARS", "LANGUAGE", "DOWNLOADS", "LICENSE")),
+        (
+            "Egezenn/dota2-precompiled-grids",
+            "dota2-precompiled-grids",
+            (90, 160),
+            ("STARS", "LANGUAGE", "DOWNLOADS", "LICENSE"),
+        ),
+        ("Egezenn/YTMASC", "YTMASC", (90, 108), ("STARS", "LANGUAGE", "DOWNLOADS", "LICENSE")),
+        ("Egezenn/Miscellaneous-scripts-and-such", "Miscellaneous-scripts-and-such", (90, 150), ("STARS", "LICENSE")),
+        ("Egezenn/kk-gtfs", "kk-gtfs", (90, 108), ("STARS", "LANGUAGE", "LICENSE")),
+    ]
+
+    total_downloads = sum(get_release_downloads(p[0]) for p in projects)
+
     stats = {
         "total_stars": total_stars,
         "followers": followers,
@@ -315,6 +334,7 @@ def main():
         "total_commits": total_commits,
         "total_prs": total_prs,
         "total_issues": total_issues,
+        "total_downloads": total_downloads,
         "lang_stats": top_lang,
         "lang_colors": top_json,
     }
@@ -322,27 +342,14 @@ def main():
     create_overview_badge(stats, "overview")
     create_language_badge(top_lang, top_json, "languages")
 
-    projects = [
-        ("dota2-minify", "dota2-minify", (90, 108), ("STARS", "LANGUAGE", "DOWNLOADS", "LICENSE")),
-        ("OpenDotaGuides", "OpenDotaGuides", (90, 120), ("STARS", "LANGUAGE", "DOWNLOADS", "LICENSE")),
-        ("YTMASC", "YTMASC", (90, 108), ("STARS", "LANGUAGE", "DOWNLOADS", "LICENSE")),
-        (
-            "Miscellaneous-scripts-and-such",
-            "Miscellaneous-scripts-and-such",
-            (90, 150),
-            ("STARS", "LICENSE"),
-        ),
-        ("kk-gtfs", "kk-gtfs", (90, 108), ("STARS", "LANGUAGE", "LICENSE")),
-    ]
-
     for project in projects:
-        repo_name = project[0]
+        full_name = project[0]
         safe_name = project[1]
         col_widths = project[2]
         allowed_fields = project[3] if len(project) > 3 else None
 
         filename_base = f"project_{safe_name}"
-        create_project_badge(username, repo_name, filename_base, col_widths, allowed_fields)
+        create_project_badge(full_name, filename_base, col_widths, allowed_fields)
 
     print("All badges generated successfully.")
 

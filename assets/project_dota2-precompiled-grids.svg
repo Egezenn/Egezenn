@@ -1,48 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="218" height="180" viewBox="0 0 218 180">
-<rect width="218" height="180" fill="#1a1b27" rx="5" ry="5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="180" viewBox="0 0 270 180">
+<rect width="270" height="180" fill="#1a1b27" rx="5" ry="5"/>
 
   <g shape-rendering="crispEdges">
     <rect x="10" y="10" width="90" height="28" fill="#555"/>
-    <rect x="100" y="10" width="108" height="28" fill="#555"/>
+    <rect x="100" y="10" width="160" height="28" fill="#555"/>
   </g>
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
     <text x="55.0" y="29" transform="scale(1)" fill="#fff" font-size="11">REPO</text>
-    <text x="154.0" y="29" transform="scale(1)" fill="#fff" font-weight="bold" font-size="11">DOTA2-MINIFY</text>
+    <text x="180.0" y="29" transform="scale(1)" fill="#fff" font-weight="bold" font-size="11">DOTA2-PRECOMPI...</text>
   </g>
 
   <g shape-rendering="crispEdges">
     <rect x="10" y="43" width="90" height="28" fill="#555"/>
-    <rect x="100" y="43" width="108" height="28" fill="#007ec6"/>
+    <rect x="100" y="43" width="160" height="28" fill="#007ec6"/>
   </g>
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
     <text x="55.0" y="62" transform="scale(1)" fill="#fff" font-size="11">STARS</text>
-    <text x="154.0" y="62" transform="scale(1)" fill="#fff" font-weight="bold" font-size="11">141</text>
+    <text x="180.0" y="62" transform="scale(1)" fill="#fff" font-weight="bold" font-size="11">1</text>
   </g>
 
   <g shape-rendering="crispEdges">
     <rect x="10" y="76" width="90" height="28" fill="#555"/>
-    <rect x="100" y="76" width="108" height="28" fill="#dfb317"/>
+    <rect x="100" y="76" width="160" height="28" fill="#dfb317"/>
   </g>
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
     <text x="55.0" y="95" transform="scale(1)" fill="#fff" font-size="11">LANGUAGE</text>
-    <text x="154.0" y="95" transform="scale(1)" fill="#fff" font-weight="bold" font-size="11">PYTHON</text>
+    <text x="180.0" y="95" transform="scale(1)" fill="#fff" font-weight="bold" font-size="11">PYTHON</text>
   </g>
 
   <g shape-rendering="crispEdges">
     <rect x="10" y="109" width="90" height="28" fill="#555"/>
-    <rect x="100" y="109" width="108" height="28" fill="#2ea44f"/>
+    <rect x="100" y="109" width="160" height="28" fill="#2ea44f"/>
   </g>
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
     <text x="55.0" y="128" transform="scale(1)" fill="#fff" font-size="11">DOWNLOADS</text>
-    <text x="154.0" y="128" transform="scale(1)" fill="#fff" font-weight="bold" font-size="11">85106</text>
+    <text x="180.0" y="128" transform="scale(1)" fill="#fff" font-weight="bold" font-size="11">583</text>
   </g>
 
   <g shape-rendering="crispEdges">
     <rect x="10" y="142" width="90" height="28" fill="#555"/>
-    <rect x="100" y="142" width="108" height="28" fill="#fe7d37"/>
+    <rect x="100" y="142" width="160" height="28" fill="#fe7d37"/>
   </g>
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
     <text x="55.0" y="161" transform="scale(1)" fill="#fff" font-size="11">LICENSE</text>
-    <text x="154.0" y="161" transform="scale(1)" fill="#fff" font-weight="bold" font-size="11">GPL-3.0</text>
+    <text x="180.0" y="161" transform="scale(1)" fill="#fff" font-weight="bold" font-size="11">MIT</text>
   </g>
 </svg>
