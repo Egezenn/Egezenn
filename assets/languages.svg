@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="180" viewBox="0 0 300 180">
 <rect width="300" height="180" fill="#1a1b27" rx="5" ry="5"/>
-<rect x="10" y="10" width="140.01194263193895" height="10" fill="#3572A5"/>
-<rect x="150.01194263193895" y="10" width="45.93136243716547" height="10" fill="#f1e05a"/>
-<rect x="195.9433050691044" y="10" width="38.80052547580531" height="10" fill="#6594b9"/>
-<rect x="234.7438305449097" y="10" width="24.087202927030518" height="10" fill="#663399"/>
-<rect x="258.83103347194026" y="10" width="14.411499668863387" height="10" fill="#e34c26"/>
-<rect x="273.24253314080363" y="10" width="8.13836081948169" height="10" fill="#ff6347"/>
-<rect x="281.38089396028533" y="10" width="5.714223674639278" height="10" fill="#012456"/>
+<rect x="10" y="10" width="140.22486291688026" height="10" fill="#3572A5"/>
+<rect x="150.22486291688026" y="10" width="46.00121161284309" height="10" fill="#f1e05a"/>
+<rect x="196.22607452972335" y="10" width="38.85953057769079" height="10" fill="#6594b9"/>
+<rect x="235.08560510741415" y="10" width="24.12383304596362" height="10" fill="#663399"/>
+<rect x="259.2094381533778" y="10" width="14.00761141401432" height="10" fill="#e34c26"/>
+<rect x="273.2170495673921" y="10" width="8.15073706447955" height="10" fill="#ff6347"/>
+<rect x="281.36778663187164" y="10" width="5.722913462882706" height="10" fill="#012456"/>
 <circle cx="15" cy="36" r="5" fill="#3572A5"/>
-<text x="25" y="40" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">Python (50.0%)</text>
+<text x="25" y="40" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">Python (50.1%)</text>
 <circle cx="15" cy="56" r="5" fill="#f1e05a"/>
 <text x="25" y="60" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">JavaScript (16.4%)</text>
 <circle cx="15" cy="76" r="5" fill="#6594b9"/>
@@ -16,7 +16,7 @@
 <circle cx="15" cy="96" r="5" fill="#663399"/>
 <text x="25" y="100" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">CSS (8.6%)</text>
 <circle cx="15" cy="116" r="5" fill="#e34c26"/>
-<text x="25" y="120" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">HTML (5.1%)</text>
+<text x="25" y="120" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">HTML (5.0%)</text>
 <circle cx="15" cy="136" r="5" fill="#ff6347"/>
 <text x="25" y="140" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">Stylus (2.9%)</text>
 <circle cx="15" cy="156" r="5" fill="#012456"/>
