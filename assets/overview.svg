@@ -7,7 +7,7 @@
   </g>
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
     <text x="75.0" y="29" transform="scale(1)" fill="#fff" font-size="11">TOTAL COMMITS</text>
-    <text x="170.0" y="29" transform="scale(1)" fill="#fff" font-weight="bold" font-size="11">717</text>
+    <text x="170.0" y="29" transform="scale(1)" fill="#fff" font-weight="bold" font-size="11">730</text>
   </g>
 
   <g shape-rendering="crispEdges">
@@ -25,7 +25,7 @@
   </g>
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
     <text x="75.0" y="95" transform="scale(1)" fill="#fff" font-size="11">TOTAL DOWNLOADS</text>
-    <text x="170.0" y="95" transform="scale(1)" fill="#fff" font-weight="bold" font-size="11">206492</text>
+    <text x="170.0" y="95" transform="scale(1)" fill="#fff" font-weight="bold" font-size="11">208742</text>
   </g>
 
   <g shape-rendering="crispEdges">
@@ -61,6 +61,6 @@
   </g>
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
     <text x="75.0" y="227" transform="scale(1)" fill="#fff" font-size="11">FOLLOWERS</text>
-    <text x="170.0" y="227" transform="scale(1)" fill="#fff" font-weight="bold" font-size="11">19</text>
+    <text x="170.0" y="227" transform="scale(1)" fill="#fff" font-weight="bold" font-size="11">20</text>
   </g>
 </svg>
