@@ -125,6 +125,18 @@ def get_release_downloads(full_name):
     return total_downloads
 
 
+def get_npm_downloads(package_name):
+    try:
+        url = f"https://api.npmjs.org/downloads/point/2010-01-01:2050-01-01/{package_name}"
+        req = urllib.request.Request(url)
+        with urllib.request.urlopen(req) as response:
+            data = json.loads(response.read().decode())
+            return data.get("downloads", 0)
+    except Exception as e:
+        print(f"Error fetching NPM downloads for {package_name}: {e}")
+        return 0
+
+
 def create_list_svg(items, filename, col_widths=(130, 110)):
     row_height = 28
     gap_y = 5
@@ -218,6 +230,9 @@ def create_project_badge(full_name, filename, col_widths=(90, 108), allowed_fiel
         items.append(("Language", details.get("language", "Unknown") or "Unknown", "#dfb317"))
     if "DOWNLOADS" in allowed_fields:
         items.append(("Downloads", get_release_downloads(full_name), "#2ea44f"))
+    if "NPM_DOWNLOADS" in allowed_fields:
+        package_name = full_name.split("/")[-1]
+        items.append(("NPM DLs", get_npm_downloads(package_name), "#cb3837"))
     if "LICENSE" in allowed_fields:
         items.append(
             (
@@ -323,9 +338,19 @@ def main():
         ("Egezenn/YTMASC", "YTMASC", (90, 108), ("STARS", "LANGUAGE", "DOWNLOADS", "LICENSE")),
         ("Egezenn/Miscellaneous-scripts-and-such", "Miscellaneous-scripts-and-such", (90, 150), ("STARS", "LICENSE")),
         ("Egezenn/kk-gtfs", "kk-gtfs", (90, 108), ("STARS", "LANGUAGE", "LICENSE")),
+        (
+            "Egezenn/dota2-datawrapper",
+            "dota2-datawrapper",
+            (90, 120),
+            ("STARS", "LANGUAGE", "NPM_DOWNLOADS", "LICENSE"),
+        ),
     ]
 
     total_downloads = sum(get_release_downloads(p[0]) for p in projects)
+    for p in projects:
+        if len(p) > 3 and "NPM_DOWNLOADS" in p[3]:
+            package_name = p[0].split("/")[-1]
+            total_downloads += get_npm_downloads(package_name)
 
     stats = {
         "total_stars": total_stars,

@@ -21,6 +21,7 @@
 </tr>
 <tr>
 <td align="right"><a href="https://github.com/Egezenn/Miscellaneous-scripts-and-such"><img src="assets/project_Miscellaneous-scripts-and-such.svg"></a></td>
+<td align="left"><a href="https://github.com/Egezenn/dota2-datawrapper"><img src="assets/project_dota2-datawrapper.svg"></a></td>
 </tr>
 </table>
 
