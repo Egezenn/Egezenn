@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 300 200">
 <rect width="300" height="200" fill="#1a1b27" rx="5" ry="5"/>
-<rect x="10" y="10" width="157.00850811214988" height="10" fill="#3572A5"/>
-<rect x="167.00850811214988" y="10" width="35.37286744760219" height="10" fill="#f1e05a"/>
-<rect x="202.3813755597521" y="10" width="29.881235211138065" height="10" fill="#6594b9"/>
-<rect x="232.26261077089015" y="10" width="18.607001186095097" height="10" fill="#663399"/>
-<rect x="250.86961195698524" y="10" width="15.22138650097169" height="10" fill="#3178c6"/>
-<rect x="266.0909984579569" y="10" width="10.771224592421651" height="10" fill="#e34c26"/>
-<rect x="276.8622230503786" y="10" width="6.267551042103389" height="10" fill="#ff6347"/>
-<rect x="283.12977409248197" y="10" width="4.420730505577513" height="10" fill="#012456"/>
+<rect x="10" y="10" width="157.0155971170775" height="10" fill="#3572A5"/>
+<rect x="167.0155971170775" y="10" width="35.372656192143864" height="10" fill="#f1e05a"/>
+<rect x="202.38825330922137" y="10" width="29.88105675305719" height="10" fill="#6594b9"/>
+<rect x="232.26931006227855" y="10" width="18.606890060510793" height="10" fill="#663399"/>
+<rect x="250.87620012278933" y="10" width="15.221295595110401" height="10" fill="#3178c6"/>
+<rect x="266.09749571789973" y="10" width="10.771160264021042" height="10" fill="#e34c26"/>
+<rect x="276.86865598192077" y="10" width="6.267513610748131" height="10" fill="#ff6347"/>
+<rect x="283.1361695926689" y="10" width="4.42070410388841" height="10" fill="#012456"/>
 <circle cx="15" cy="36" r="5" fill="#3572A5"/>
 <text x="25" y="40" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">Python (56.1%)</text>
 <circle cx="15" cy="56" r="5" fill="#f1e05a"/>
