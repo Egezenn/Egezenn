@@ -9,19 +9,19 @@
 <table>
 <tr>
 <td align="right"><a href="https://egezenn.github.io/dota2-minify"><img src="assets/project_dota2-minify.svg"></a></td>
-<td align="left"><a href="https://github.com/Silkroad-Developer-Community/RSBot"><img src="assets/project_RSBot.svg"></a></td>
+<td align="left"><a href="https://silkroad-developer-community.github.io"><img src="assets/project_RSBot.svg"></a></td>
 </tr>
 <tr>
-<td align="right"><a href="https://github.com/Egezenn/OpenDotaGuides"><img src="assets/project_OpenDotaGuides.svg"></a></td>
-<td align="left"><a href="https://github.com/Egezenn/dota2-precompiled-grids"><img src="assets/project_dota2-precompiled-grids.svg"></a></td>
+<td align="right"><a href="https://egezenn.github.io/OpenDotaGuides"><img src="assets/project_OpenDotaGuides.svg"></a></td>
+<td align="left"><a href="https://egezenn.github.io/dota2-precompiled-grids"><img src="assets/project_dota2-precompiled-grids.svg"></a></td>
 </tr>
 <tr>
 <td align="right"><a href="https://github.com/Egezenn/YTMASC"><img src="assets/project_YTMASC.svg"></a></td>
-<td align="left"><a href="https://github.com/Egezenn/kk-gtfs"><img src="assets/project_kk-gtfs.svg"></a></td>
+<td align="left"><a href="https://egezenn.github.io/kk-gtfs/map"><img src="assets/project_kk-gtfs.svg"></a></td>
 </tr>
 <tr>
+<td align="left"><a href="https://egezenn.github.io/dota2-datawrapper"><img src="assets/project_dota2-datawrapper.svg"></a></td>
 <td align="right"><a href="https://github.com/Egezenn/Miscellaneous-scripts-and-such"><img src="assets/project_Miscellaneous-scripts-and-such.svg"></a></td>
-<td align="left"><a href="https://github.com/Egezenn/dota2-datawrapper"><img src="assets/project_dota2-datawrapper.svg"></a></td>
 </tr>
 </table>
 
