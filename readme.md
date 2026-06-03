@@ -9,7 +9,7 @@
 <table>
 <tr>
 <td align="right"><a href="https://egezenn.github.io/dota2-minify"><img src="assets/project_dota2-minify.svg"></a></td>
-<td align="left"><a href="https://silkroad-developer-community.github.io"><img src="assets/project_RSBot.svg"></a></td>
+<td align="left"><a href="https://silkroad-developer-community.github.io"><img src="assets/project_OasisBot.svg"></a></td>
 </tr>
 <tr>
 <td align="right"><a href="https://egezenn.github.io/OpenDotaGuides"><img src="assets/project_OpenDotaGuides.svg"></a></td>

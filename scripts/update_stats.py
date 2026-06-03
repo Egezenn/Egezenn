@@ -327,7 +327,7 @@ def main():
 
     projects = [
         ("Egezenn/dota2-minify", "dota2-minify", (90, 108), ("STARS", "LANGUAGE", "DOWNLOADS", "LICENSE")),
-        ("Silkroad-Developer-Community/RSBot", "RSBot", (90, 108), ("STARS", "LANGUAGE", "DOWNLOADS", "LICENSE")),
+        ("Silkroad-Developer-Community/OasisBot", "OasisBot", (90, 108), ("STARS", "LANGUAGE", "DOWNLOADS", "LICENSE")),
         ("Egezenn/OpenDotaGuides", "OpenDotaGuides", (90, 120), ("STARS", "LANGUAGE", "DOWNLOADS", "LICENSE")),
         (
             "Egezenn/dota2-precompiled-grids",
