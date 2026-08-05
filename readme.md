@@ -16,7 +16,7 @@
 <td align="left"><a href="https://egezenn.github.io/dota2-precompiled-grids"><img src="assets/project_dota2-precompiled-grids.svg"></a></td>
 </tr>
 <tr>
-<td align="right"><a href="https://github.com/Egezenn/YTMASC"><img src="assets/project_YTMASC.svg"></a></td>
+<td align="right"><a href="https://github.com/Egezenn/EALT"><img src="assets/project_EALT.svg"></a></td>
 <td align="left"><a href="https://egezenn.github.io/kk-gtfs/map"><img src="assets/project_kk-gtfs.svg"></a></td>
 </tr>
 <tr>

@@ -335,7 +335,7 @@ def main():
             (90, 160),
             ("STARS", "LANGUAGE", "DOWNLOADS", "LICENSE"),
         ),
-        ("Egezenn/YTMASC", "YTMASC", (90, 108), ("STARS", "LANGUAGE", "DOWNLOADS", "LICENSE")),
+        ("Egezenn/EALT", "EALT", (90, 108), ("STARS", "LANGUAGE", "DOWNLOADS", "LICENSE")),
         ("Egezenn/Miscellaneous-scripts-and-such", "Miscellaneous-scripts-and-such", (90, 150), ("STARS", "LICENSE")),
         ("Egezenn/kk-gtfs", "kk-gtfs", (90, 108), ("STARS", "LANGUAGE", "LICENSE")),
         (
