@@ -1,30 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="220" viewBox="0 0 300 220">
 <rect width="300" height="220" fill="#1a1b27" rx="5" ry="5"/>
-<rect x="10" y="10" width="131.3332523678252" height="10" fill="#3572A5"/>
-<rect x="141.3332523678252" y="10" width="37.46475920802423" height="10" fill="#e34c26"/>
-<rect x="178.79801157584944" y="10" width="33.33471972902064" height="10" fill="#f1e05a"/>
-<rect x="212.13273130487008" y="10" width="31.950043172361706" height="10" fill="#ff3e00"/>
-<rect x="244.0827744772318" y="10" width="14.95334223953923" height="10" fill="#3178c6"/>
-<rect x="259.036116716771" y="10" width="12.395475469946545" height="10" fill="#663399"/>
-<rect x="271.4315921867175" y="10" width="8.165515680967061" height="10" fill="#6594b9"/>
-<rect x="279.5971078676846" y="10" width="5.929769630947014" height="10" fill="#012456"/>
-<rect x="285.5268774986316" y="10" width="3.6979831270099273" height="10" fill="#89e051"/>
+<rect x="10" y="10" width="131.29644838845374" height="10" fill="#3572A5"/>
+<rect x="141.29644838845374" y="10" width="35.659508690397494" height="10" fill="#e34c26"/>
+<rect x="176.95595707885124" y="10" width="34.654821284295856" height="10" fill="#f1e05a"/>
+<rect x="211.6107783631471" y="10" width="32.05815187997035" height="10" fill="#ff3e00"/>
+<rect x="243.66893024311744" y="10" width="15.00393955783471" height="10" fill="#3178c6"/>
+<rect x="258.6728698009521" y="10" width="12.437417786769764" height="10" fill="#663399"/>
+<rect x="271.11028758772187" y="10" width="9.583675540687619" height="10" fill="#6594b9"/>
+<rect x="280.6939631284095" y="10" width="4.5852446866048355" height="10" fill="#012456"/>
+<rect x="285.27920781501433" y="10" width="3.9427962847966453" height="10" fill="#89e051"/>
 <circle cx="15" cy="36" r="5" fill="#3572A5"/>
 <text x="25" y="40" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">Python (46.9%)</text>
 <circle cx="15" cy="56" r="5" fill="#e34c26"/>
-<text x="25" y="60" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">HTML (13.4%)</text>
+<text x="25" y="60" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">HTML (12.7%)</text>
 <circle cx="15" cy="76" r="5" fill="#f1e05a"/>
-<text x="25" y="80" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">JavaScript (11.9%)</text>
+<text x="25" y="80" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">JavaScript (12.4%)</text>
 <circle cx="15" cy="96" r="5" fill="#ff3e00"/>
 <text x="25" y="100" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">Svelte (11.4%)</text>
 <circle cx="15" cy="116" r="5" fill="#3178c6"/>
-<text x="25" y="120" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">TypeScript (5.3%)</text>
+<text x="25" y="120" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">TypeScript (5.4%)</text>
 <circle cx="15" cy="136" r="5" fill="#663399"/>
 <text x="25" y="140" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">CSS (4.4%)</text>
 <circle cx="15" cy="156" r="5" fill="#6594b9"/>
-<text x="25" y="160" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">AutoHotkey (2.9%)</text>
+<text x="25" y="160" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">AutoHotkey (3.4%)</text>
 <circle cx="15" cy="176" r="5" fill="#012456"/>
-<text x="25" y="180" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">PowerShell (2.1%)</text>
+<text x="25" y="180" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">PowerShell (1.6%)</text>
 <circle cx="15" cy="196" r="5" fill="#89e051"/>
-<text x="25" y="200" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">Shell (1.3%)</text>
+<text x="25" y="200" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">Shell (1.4%)</text>
 </svg>
