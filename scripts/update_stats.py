@@ -175,8 +175,8 @@ def create_list_svg(items, filename, col_widths=(130, 110)):
     <rect x="{x + w_label}" y="{y}" width="{w_value}" height="{row_height}" fill="{color}"/>
   </g>
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
-    <text x="{x_label_center}" y="{y+19}" transform="scale(1)" fill="#fff" font-size="11">{label}</text>
-    <text x="{x_value_center}" y="{y+19}" transform="scale(1)" fill="#fff" font-weight="bold" font-size="11">{value}</text>
+    <text x="{x_label_center}" y="{y + 19}" transform="scale(1)" fill="#fff" font-size="11">{label}</text>
+    <text x="{x_value_center}" y="{y + 19}" transform="scale(1)" fill="#fff" font-weight="bold" font-size="11">{value}</text>
   </g>
 """
     svg_content += "</svg>"
@@ -335,8 +335,8 @@ def main():
             (90, 160),
             ("STARS", "LANGUAGE", "DOWNLOADS", "LICENSE"),
         ),
-        ("Egezenn/EALT", "EALT", (90, 108), ("STARS", "LANGUAGE", "DOWNLOADS", "LICENSE")),
-        ("Egezenn/Miscellaneous-scripts-and-such", "Miscellaneous-scripts-and-such", (90, 150), ("STARS", "LICENSE")),
+        ("Egezenn/EALT", "EALT", (90, 108), ("STARS", "LANGUAGE", "LICENSE")),
+        ("Egezenn/dotfiles-win", "dotfiles-win", (90, 150), ("STARS", "LANGUAGE", "LICENSE")),
         ("Egezenn/kk-gtfs", "kk-gtfs", (90, 108), ("STARS", "LANGUAGE", "LICENSE")),
         (
             "Egezenn/dota2-datawrapper",
