@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="220" viewBox="0 0 300 220">
 <rect width="300" height="220" fill="#1a1b27" rx="5" ry="5"/>
-<rect x="10" y="10" width="133.42196190694486" height="10" fill="#3572A5"/>
-<rect x="143.42196190694486" y="10" width="34.72624223463651" height="10" fill="#e34c26"/>
-<rect x="178.14820414158137" y="10" width="33.747849107089884" height="10" fill="#f1e05a"/>
-<rect x="211.89605324867125" y="10" width="31.219138699978785" height="10" fill="#ff3e00"/>
-<rect x="243.11519194865002" y="10" width="14.611262428848828" height="10" fill="#3178c6"/>
-<rect x="257.72645437749884" y="10" width="12.11191064315051" height="10" fill="#663399"/>
-<rect x="269.83836502064935" y="10" width="9.800772655191444" height="10" fill="#6594b9"/>
-<rect x="279.6391376758408" y="10" width="5.844869109479535" height="10" fill="#012456"/>
-<rect x="285.48400678532033" y="10" width="3.758358713260067" height="10" fill="#89e051"/>
+<rect x="10" y="10" width="133.40710072060563" height="10" fill="#3572A5"/>
+<rect x="143.40710072060563" y="10" width="34.72480278033802" height="10" fill="#e34c26"/>
+<rect x="178.13190350094365" y="10" width="33.74645020863914" height="10" fill="#f1e05a"/>
+<rect x="211.8783537095828" y="10" width="31.217844620328787" height="10" fill="#ff3e00"/>
+<rect x="243.09619832991157" y="10" width="14.610656770327893" height="10" fill="#3178c6"/>
+<rect x="257.70685510023947" y="10" width="12.111408586471862" height="10" fill="#663399"/>
+<rect x="269.8182636867113" y="10" width="9.800366398613733" height="10" fill="#6594b9"/>
+<rect x="279.61863008532504" y="10" width="5.8446268309771" height="10" fill="#012456"/>
+<rect x="285.46325691630216" y="10" width="3.7791399873532336" height="10" fill="#89e051"/>
 <circle cx="15" cy="36" r="5" fill="#3572A5"/>
-<text x="25" y="40" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">Python (47.7%)</text>
+<text x="25" y="40" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">Python (47.6%)</text>
 <circle cx="15" cy="56" r="5" fill="#e34c26"/>
 <text x="25" y="60" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="12" fill="#fff">HTML (12.4%)</text>
 <circle cx="15" cy="76" r="5" fill="#f1e05a"/>
